@@ -1,5 +1,15 @@
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-
-    
+.roxo {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(199, 155, 244);
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    gap: 10px;
 }
