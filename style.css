@@ -13,3 +13,20 @@
     align-items: flex-end;
     gap: 10px;
 }
+.roxo div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(121, 38, 144);
+    border-radius: 50%;
+}
+
+.verde {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(149, 217, 175);
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;
+}
+
