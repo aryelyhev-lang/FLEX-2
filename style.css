@@ -54,4 +54,36 @@
     border-radius: 50%;
 }
 
+.amarelo {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(236, 228, 104);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
+}
+
+.amarelo div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(246, 215, 39);
+    border-radius: 50%;
+}
+
+.azul {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(95, 128, 192);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+}
+
+.azul div {
+    width: 100px; 
+    height: 100px;
+    background-color: rgb(9, 32, 166);
+    border-radius: 50%;
+}
