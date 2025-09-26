@@ -54,20 +54,4 @@
     border-radius: 50%;
 }
 
-.azul {
-    width: 100vw;
-    height: 200px;
-    background-color: rgb(97, 147, 183);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 400px;
-}
 
-.azul div{
-    width: 100px;
-    height: 100px;
-    background-color: rgb(0, 48, 76);
-    border-radius: 50%;
-}
-   
